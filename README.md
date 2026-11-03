@@ -6,6 +6,7 @@ Data Science and Economics at Northeastern University. I build tools for investm
 
 | Project | Focus |
 | --- | --- |
+| [FOMC bank-stock dashboard](https://github.com/isaactoffel-lang/fomc-bank-stock-dashboard) | Monetary policy research, event studies, and a team dashboard |
 | [Toffel Capital](https://github.com/isaactoffel-lang/investment-portfolio-site) | Portfolio analysis, company research, and a record of investment decisions |
 | [AINU Research Hub](https://github.com/isaactoffel-lang/ainu-research-hub) | Shared research, analyst workflows, and review tools |
 | [Ultron](https://github.com/isaactoffel-lang/ultron) | A native workspace built around local Markdown notes |
