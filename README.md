@@ -1,39 +1,20 @@
 # Isaac Toffel
 
-Data Science and Economics at Northeastern University. I build tools for investment research, local knowledge work, and practical workflows.
+**Equity research · Applied data science**
 
-My projects connect analysis with the work around it: explaining an investment decision, reviewing another analyst's research, updating a local note, or handing off an event contribution.
+I study Data Science and Economics at Northeastern University. My work focuses on investment decisions and the evidence behind them, from a company thesis to the way a market study is evaluated.
 
-## Selected work
+## Start here
 
-| Project | The problem it examines |
-| --- | --- |
-| [Toffel Capital](https://github.com/isaactoffel-lang/investment-portfolio-site) | Connect portfolio analysis with company research and the reasoning behind decisions. |
-| [AINU Research Hub](https://github.com/isaactoffel-lang/ainu-research-hub) | Make analyst work, valuation assumptions, and research handoffs easier to review. |
-| [Ultron](https://github.com/isaactoffel-lang/ultron) | Build a native workspace around Markdown files that can also change outside the application. |
-| [FOMC bank-stock dashboard](https://github.com/isaactoffel-lang/fomc-bank-stock-dashboard) | Examine monetary policy and market behavior while keeping event timing and evaluation limits explicit. |
-| [Wheeler Bowl](https://github.com/isaactoffel-lang/wheeler-bowl-fundraising) | Keep outreach, collection, event handoffs, and an auction prototype clearly separated. |
+| Project | My role | Inspect the work |
+| --- | --- | --- |
+| [Toffel Capital](https://github.com/isaactoffel-lang/investment-portfolio-site) | Built and maintained my investment research site | [Read a sample investment decision](https://github.com/isaactoffel-lang/investment-portfolio-site/blob/main/INVESTMENT_MEMO.md) |
+| [FOMC bank-stock dashboard](https://github.com/isaactoffel-lang/fomc-bank-stock-dashboard) | Managed the DATA Club project and led the event-study design | [Run the timing and holdout checks](https://github.com/isaactoffel-lang/fomc-bank-stock-dashboard#run-the-review) |
+| [AINU Research Hub](https://github.com/isaactoffel-lang/ainu-research-hub) | Built the research workspace and handed it off to the team | [Inspect an analyst handoff](https://github.com/isaactoffel-lang/ainu-research-hub#run-the-review) |
 
-Each project opens with an overview and continues into a detailed case study covering the workflow, architecture, tradeoffs, and limits.
+## More work
 
-## Where to start
+- [Ultron](https://github.com/isaactoffel-lang/ultron) follows a local Markdown edit from checkbox to disk. [Run the stale-save example](https://github.com/isaactoffel-lang/ultron#run-the-review).
+- [Wheeler Bowl](https://github.com/isaactoffel-lang/wheeler-bowl-fundraising) documents the path from a fundraising commitment to a confirmed event handoff. [Walk through the tracker](https://github.com/isaactoffel-lang/wheeler-bowl-fundraising/blob/main/CASE_STUDY.md#work-a-handoff).
 
-**For investment research:** [Toffel Capital](https://github.com/isaactoffel-lang/investment-portfolio-site/blob/main/CASE_STUDY.md) connects the investment argument with the analysis. [FOMC](https://github.com/isaactoffel-lang/fomc-bank-stock-dashboard/blob/main/CASE_STUDY.md) examines the boundary between a descriptive relationship and a prediction.
-
-**For application design:** [Ultron](https://github.com/isaactoffel-lang/ultron/blob/main/CASE_STUDY.md) follows a task update through a local file workflow, including the risk of saving a stale view.
-
-**For coordination:** [AINU](https://github.com/isaactoffel-lang/ainu-research-hub/blob/main/CASE_STUDY.md) and [Wheeler Bowl](https://github.com/isaactoffel-lang/wheeler-bowl-fundraising/blob/main/CASE_STUDY.md) focus on the information another person needs at a handoff.
-
-## How I work with AI
-
-I use AI for implementation, debugging, tests, and documentation. The case studies explain the actual project responsibilities and preserve the distinction between implemented behavior, review criteria, and work that still needs verification.
-
-The FOMC project credits its original team. AI assistance with later checks and documentation does not replace that attribution.
-
-## About the public record
-
-These repositories publish architecture and design case studies. Original application source, operational records, and development history are retained privately.
-
-The public files omit prices, financial figures, numeric results, email addresses, contact details, personal records, credentials, and account configuration. They do not provide runnable applications or claim verified live integrations.
-
-[Publication policy](PUBLICATION.md) · [How to maintain the record](CONTRIBUTING.md)
+The public samples use invented inputs. Project pages credit the original work and label the AI-assisted examples added for this publication. [Publication policy](PUBLICATION.md)

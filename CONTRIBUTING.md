@@ -16,7 +16,7 @@ Preserve team attribution and describe AI assistance honestly. Never invent resu
 
 ## Publish only the intended material
 
-Keep source, records, configurations, attachments, screenshots, and development history private. Review every public file against the publication policy before committing it.
+Keep original source, records, configurations, attachments, screenshots, and development history private. Label standalone examples, use invented inputs, and run the published entry point before release. Review every public file against the publication policy before committing it.
 
 Architecture diagrams should explain a real relationship. Use descriptive labels, include a plain-language explanation, and avoid decoration that adds no information.
 
